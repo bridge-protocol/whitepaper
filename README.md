@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://storage.googleapis.com/bridge-assets/Bridge_Logo_Black.png"
+    src="https://bridge-assets.nyc3.digitaloceanspaces.com/images/Bridge_Logo_Black.png"
     width="125px;">
 
 </p>
